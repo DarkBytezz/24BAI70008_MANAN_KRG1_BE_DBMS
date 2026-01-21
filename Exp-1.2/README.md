@@ -51,3 +51,4 @@ After completing this experiment, the student is able to:
 - Use aggregate functions for data analysis.
 
 ---
+![alt text](image.png)
