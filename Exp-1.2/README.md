@@ -51,8 +51,3 @@ After completing this experiment, the student is able to:
 - Use aggregate functions for data analysis.
 
 ---
-
-## Screenshots
-- Screenshot of EMPLOYEE table creation
-- Screenshot of data insertion
-- Screenshot of query execution and output
