@@ -49,5 +49,7 @@ This experiment provides practical understanding of database creation, data mani
 ---
 
 ## 📸 Output Screenshot
-![Output Screenshot](image.png)
-![Output Screenshot](grant-revoke.png)
+![Output Screenshot](img1.png)
+![Output Screenshot](img2.png)
+![Output Screenshot](img3.png)
+![Output Screenshot](img4.png)
