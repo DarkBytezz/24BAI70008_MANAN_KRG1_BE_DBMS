@@ -52,3 +52,5 @@ After completing this experiment, the student is able to:
 
 ---
 ![alt text](image.jpeg)
+![alt text](image2.png)
+![alt text](image3.png)
