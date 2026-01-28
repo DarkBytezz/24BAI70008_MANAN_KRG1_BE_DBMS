@@ -40,7 +40,7 @@ The objective of this experiment is to understand the basic structure of a PL/SQ
 - Display of employee salary using built-in output procedure.
 
 ### Screenshots
-![alt text](img1.jpeg)
+![alt text](img1.png)
 ![alt text](img4.png)
 ![alt text](img2.png)
 ![alt text](img3.png)
