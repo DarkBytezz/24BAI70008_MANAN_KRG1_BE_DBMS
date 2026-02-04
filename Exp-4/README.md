@@ -47,21 +47,21 @@ The objective of this experiment is to understand and implement conditional cont
 - Display day name based on day number using CASE statement.
 
 ### Screenshots
-![alt text](img1.png)
+![alt text](img-1.png)
 
-![alt text](img2.png)
+![alt text](img-2.png)
 
-![alt text](img3.png)
+![alt text](img-3.png)
 
-![alt text](img4.png)
+![alt text](img-4.png)
 
-![alt text](img5.png)
+![alt text](img-5.png)
 
-![alt text](img6.png)
+![alt text](img-6.png)
 
-![alt text](img7.png)
+![alt text](img-7.png)
 
-![alt text](img8.png)
+![alt text](img-8.png)
 
 ---
 
